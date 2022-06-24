@@ -35,7 +35,7 @@ Luego continuar con el paso 3 de la otra forma
 
 ## Despliegue 📦
 
-_El mismo fue desplegado en Vercel para que lo vean ejecutando, por si no quieren descargar el proyecto_
+_Aca dejo como se veria el proyecto finalizado_
 https://ecommerce-ejemplo.vercel.app/
 
 ## Construido con 🛠️
