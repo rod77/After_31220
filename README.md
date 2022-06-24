@@ -29,7 +29,7 @@ npm start
 ### Instalación con git clone🔧
 _Se puede clonar el repositorio, ingresando a una terminal y ejecutando:_
 ```
-git clone https://github.com/rod77/Ecommerce_ejemplo.git
+git clone https://github.com/rod77/After_31220.git
 ```
 Luego continuar con el paso 3 de la otra forma 
 
