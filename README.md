@@ -1,6 +1,7 @@
 # Ecommerce de ejemplo
 
 _Se crea un ecommerce para el curso de Coderhouse: React_ 
+_ItemListContainer tiene para obtener los datos por medio de un array de objetos y por un JSON_
 
 ## Comenzando 🚀
 
